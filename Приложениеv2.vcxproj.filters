@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\setting">
+      <UniqueIdentifier>{989fd18a-7ab9-432e-85b3-f201f37e2b3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components">
+      <UniqueIdentifier>{d0293061-84cf-48aa-8f7c-ab4e7d54fd99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\menu">
+      <UniqueIdentifier>{ca0764a3-a29c-4c1d-865f-ded3ddc27f5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components">
+      <UniqueIdentifier>{8e721e1f-0f64-4983-a959-17be80360bc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\storage">
+      <UniqueIdentifier>{8ca90a63-1583-4c2c-89e8-4e548f4e9747}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\uiElements">
+      <UniqueIdentifier>{06ef9301-0acf-40fd-8817-f9a8f1ae6c01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\enterInformationWithKeyboard">
+      <UniqueIdentifier>{78003f92-b9ae-42da-a468-4cd9d357abda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\addInformationFromCreatedTextFIle">
+      <UniqueIdentifier>{04c160b8-7b90-4fb3-bf2f-bdbde011a168}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\enterInformationFromCreatedBinaryFile">
+      <UniqueIdentifier>{9417c2e7-5a0c-4515-a0a0-cf8e50f08797}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\outputDataOnDisplay">
+      <UniqueIdentifier>{fef09eb1-b3d0-4206-98a1-e081d499028d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\outputDataToFile">
+      <UniqueIdentifier>{db50ec2e-dc15-43e7-99d0-69a542a367f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\printDataSortedByAverageMark">
+      <UniqueIdentifier>{74476bf5-1ed4-491e-a09a-fb433b4e44fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\convertTheDatabaseToATextFile">
+      <UniqueIdentifier>{24732936-1a27-458c-81ad-8395f26ad0b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\convertTheContentsOfTheTextFileToABinary">
+      <UniqueIdentifier>{11aeb900-9b79-4293-a951-5e1b805d91f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\updateEntry">
+      <UniqueIdentifier>{94cf3769-d3b7-433b-9774-ade7a3513fee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\sort">
+      <UniqueIdentifier>{a5c0c4a1-58b1-4307-bb02-e1e6274d33c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\exit">
+      <UniqueIdentifier>{2e0a5cf6-cbb5-4c17-a345-02e561e85724}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\addInformationFromCreatedTextFIle">
+      <UniqueIdentifier>{41b9e8fe-aca7-482f-b5d4-5149a636d8ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\convertTheContentsOfTheTextFileToABinary">
+      <UniqueIdentifier>{b266d9f2-7ccd-451e-93b1-78d8ae86dbdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\convertTheDatabaseToATextFile">
+      <UniqueIdentifier>{9122b540-9c50-4df9-a60e-140755ea7293}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\enterInformationFromCreatedBinaryFile">
+      <UniqueIdentifier>{04720cea-7e52-4093-900a-5fdd55f2f097}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\enterInformationWithKeyboard">
+      <UniqueIdentifier>{7ea6ae7d-d9a9-4820-8a96-7414159597f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\exit">
+      <UniqueIdentifier>{9ba0934a-dc2b-4044-90c3-8d5d4cf1757e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\menu">
+      <UniqueIdentifier>{f00ab72f-8a7f-4857-adec-cd8e4392af55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\outputDataOnDisplay">
+      <UniqueIdentifier>{ef5dc567-2ee2-4964-9d02-3c8b9e1005c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\outputDataToFile">
+      <UniqueIdentifier>{213627c7-50a4-478b-8f97-746098353b38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\printDataSortedByAverageMark">
+      <UniqueIdentifier>{1fad810f-d11c-4f03-b7fe-c3022e8f24db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\sort">
+      <UniqueIdentifier>{a91e4664-6fd9-4f54-a3d6-917c822b0a9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\updateEntry">
+      <UniqueIdentifier>{fa09c161-f8c2-4c70-9344-b196541e2fb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\deleteAnEntry">
+      <UniqueIdentifier>{b2efefd6-15bc-4543-898e-027c1bb85618}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\createAnEntry">
+      <UniqueIdentifier>{2d36865e-f589-4103-ba10-1bb6182a817f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\createAnEntry">
+      <UniqueIdentifier>{e6dc676a-3ea5-4267-8483-c88e317238ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\deleteAnEntry">
+      <UniqueIdentifier>{c04f87ed-175d-4236-a088-597486ce7cd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\uiElement">
+      <UniqueIdentifier>{1b65d298-0cd2-46ac-873a-2e254c5760ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\storage">
+      <UniqueIdentifier>{2b950a18-a105-4c3a-8d78-e2ad45a89a60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\components\table">
+      <UniqueIdentifier>{569383bc-dbb0-4058-9557-ec14d4e10d14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\components\table">
+      <UniqueIdentifier>{3e9ee323-2612-4833-94ba-96f1e069d7db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\file">
+      <UniqueIdentifier>{340cb2fb-1bab-452f-a9f5-488aec15b240}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\file">
+      <UniqueIdentifier>{23bf818b-adb4-446f-8eeb-d4a8a10222ba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prepareConsole.cpp">
+      <Filter>Source Files\setting</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.ui.cpp">
+      <Filter>Source Files\components\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.module.cpp">
+      <Filter>Source Files\components\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="storage.service.cpp">
+      <Filter>Source Files\storage</Filter>
+    </ClCompile>
+    <ClCompile Include="enterInformationWithKeyboard.module.cpp">
+      <Filter>Source Files\components\enterInformationWithKeyboard</Filter>
+    </ClCompile>
+    <ClCompile Include="addInformationFromCreatedTextFile.module.cpp">
+      <Filter>Source Files\components\addInformationFromCreatedTextFIle</Filter>
+    </ClCompile>
+    <ClCompile Include="enterInformationFromCreatedBinaryFile.module.cpp">
+      <Filter>Source Files\components\enterInformationFromCreatedBinaryFile</Filter>
+    </ClCompile>
+    <ClCompile Include="convertTheDatabaseToATextFile.module.cpp">
+      <Filter>Source Files\components\convertTheDatabaseToATextFile</Filter>
+    </ClCompile>
+    <ClCompile Include="convertTheContentsOfTheTextFileToABinary.module.cpp">
+      <Filter>Source Files\components\convertTheContentsOfTheTextFileToABinary</Filter>
+    </ClCompile>
+    <ClCompile Include="createEntry.module.cpp">
+      <Filter>Source Files\components\createAnEntry</Filter>
+    </ClCompile>
+    <ClCompile Include="deleteAEntry.module.cpp">
+      <Filter>Source Files\components\deleteAnEntry</Filter>
+    </ClCompile>
+    <ClCompile Include="exit.module.cpp">
+      <Filter>Source Files\components\exit</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.module.cpp">
+      <Filter>Source Files\components\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="updateEntry.module.cpp">
+      <Filter>Source Files\components\updateEntry</Filter>
+    </ClCompile>
+    <ClCompile Include="printDataSortedByAverageMark.module.cpp">
+      <Filter>Source Files\components\printDataSortedByAverageMark</Filter>
+    </ClCompile>
+    <ClCompile Include="outputDataToFile.module.cpp">
+      <Filter>Source Files\components\outputDataToFile</Filter>
+    </ClCompile>
+    <ClCompile Include="outputDataOnDisplay.module.cpp">
+      <Filter>Source Files\components\outputDataOnDisplay</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.service.cpp">
+      <Filter>Source Files\components\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="input.ui.cpp">
+      <Filter>Source Files\uiElement</Filter>
+    </ClCompile>
+    <ClCompile Include="table.service.cpp">
+      <Filter>Source Files\components\table</Filter>
+    </ClCompile>
+    <ClCompile Include="table.ui.cpp">
+      <Filter>Source Files\components\table</Filter>
+    </ClCompile>
+    <ClCompile Include="console.ui.cpp">
+      <Filter>Source Files\uiElement</Filter>
+    </ClCompile>
+    <ClCompile Include="enterInformationWithKeyboard.ui.cpp">
+      <Filter>Source Files\components\enterInformationWithKeyboard</Filter>
+    </ClCompile>
+    <ClCompile Include="createEntry.ui.cpp">
+      <Filter>Source Files\components\createAnEntry</Filter>
+    </ClCompile>
+    <ClCompile Include="updateEntry.ui.cpp">
+      <Filter>Source Files\components\updateEntry</Filter>
+    </ClCompile>
+    <ClCompile Include="deleteAnEntry.ui.cpp">
+      <Filter>Source Files\components\deleteAnEntry</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.service.cpp">
+      <Filter>Source Files\components\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="printDataSortedByAverageMark.service.cpp">
+      <Filter>Source Files\components\printDataSortedByAverageMark</Filter>
+    </ClCompile>
+    <ClCompile Include="printDataSortedByAverageMark.ui.cpp">
+      <Filter>Source Files\components\printDataSortedByAverageMark</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.ui.cpp">
+      <Filter>Source Files\components\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="exit.ui.cpp">
+      <Filter>Source Files\components\exit</Filter>
+    </ClCompile>
+    <ClCompile Include="file.service.cpp">
+      <Filter>Source Files\file</Filter>
+    </ClCompile>
+    <ClCompile Include="convertTheDatabaseToATextFile.ui.cpp">
+      <Filter>Source Files\components\convertTheDatabaseToATextFile</Filter>
+    </ClCompile>
+    <ClCompile Include="addInformationFromCreatedTextFile.ui.cpp">
+      <Filter>Source Files\components\addInformationFromCreatedTextFIle</Filter>
+    </ClCompile>
+    <ClCompile Include="outputDataToFile.ui.cpp">
+      <Filter>Source Files\components\outputDataToFile</Filter>
+    </ClCompile>
+    <ClCompile Include="convertTheContentsOfTheTextFileToABinary.ui.cpp">
+      <Filter>Source Files\components\convertTheContentsOfTheTextFileToABinary</Filter>
+    </ClCompile>
+    <ClCompile Include="enterInformationFromCreatedBinatyFile.ui.cpp">
+      <Filter>Source Files\components\enterInformationFromCreatedBinaryFile</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="input.ui.h">
+      <Filter>Header Files\uiElements</Filter>
+    </ClInclude>
+    <ClInclude Include="addInformationFromCreatedTextFile.module.h">
+      <Filter>Header Files\components\addInformationFromCreatedTextFIle</Filter>
+    </ClInclude>
+    <ClInclude Include="convertTheContentsOfTheTextFileToABinary.module.h">
+      <Filter>Header Files\components\convertTheContentsOfTheTextFileToABinary</Filter>
+    </ClInclude>
+    <ClInclude Include="convertTheDatabaseToATextFile.module.h">
+      <Filter>Header Files\components\convertTheDatabaseToATextFile</Filter>
+    </ClInclude>
+    <ClInclude Include="createEntry.module.h">
+      <Filter>Header Files\components\createAnEntry</Filter>
+    </ClInclude>
+    <ClInclude Include="deleteAEntry.module.h">
+      <Filter>Header Files\components\deleteAnEntry</Filter>
+    </ClInclude>
+    <ClInclude Include="enterInformationFromCreatedBinaryFile.module.h">
+      <Filter>Header Files\components\enterInformationFromCreatedBinaryFile</Filter>
+    </ClInclude>
+    <ClInclude Include="enterInformationWithKeyboard.module.h">
+      <Filter>Header Files\components\enterInformationWithKeyboard</Filter>
+    </ClInclude>
+    <ClInclude Include="exit.module.h">
+      <Filter>Header Files\components\exit</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.module.h">
+      <Filter>Header Files\components\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="outputDataOnDisplay.module.h">
+      <Filter>Header Files\components\outputDataOnDisplay</Filter>
+    </ClInclude>
+    <ClInclude Include="outputDataToFile.module.h">
+      <Filter>Header Files\components\outputDataToFile</Filter>
+    </ClInclude>
+    <ClInclude Include="printDataSortedByAverageMark.module.h">
+      <Filter>Header Files\components\printDataSortedByAverageMark</Filter>
+    </ClInclude>
+    <ClInclude Include="sort.module.h">
+      <Filter>Header Files\components\sort</Filter>
+    </ClInclude>
+    <ClInclude Include="updateEntry.module.h">
+      <Filter>Header Files\components\updateEntry</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.service.h">
+      <Filter>Header Files\components\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.ui.h">
+      <Filter>Header Files\components\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="storage.service.h">
+      <Filter>Header Files\storage</Filter>
+    </ClInclude>
+    <ClInclude Include="table.ui.h">
+      <Filter>Header Files\components\table</Filter>
+    </ClInclude>
+    <ClInclude Include="table.service.h">
+      <Filter>Header Files\components\table</Filter>
+    </ClInclude>
+    <ClInclude Include="console.ui.h">
+      <Filter>Header Files\uiElements</Filter>
+    </ClInclude>
+    <ClInclude Include="enterInformationWithKeyboard.ui.h">
+      <Filter>Header Files\components\enterInformationWithKeyboard</Filter>
+    </ClInclude>
+    <ClInclude Include="errorMessages.ui.h">
+      <Filter>Header Files\uiElements</Filter>
+    </ClInclude>
+    <ClInclude Include="updateEntry.ui.h">
+      <Filter>Header Files\components\updateEntry</Filter>
+    </ClInclude>
+    <ClInclude Include="createEntry.ui.h">
+      <Filter>Header Files\components\createAnEntry</Filter>
+    </ClInclude>
+    <ClInclude Include="deleteAnEntry.ui.h">
+      <Filter>Header Files\components\deleteAnEntry</Filter>
+    </ClInclude>
+    <ClInclude Include="sort.ui.h">
+      <Filter>Header Files\components\sort</Filter>
+    </ClInclude>
+    <ClInclude Include="sort.service.h">
+      <Filter>Header Files\components\sort</Filter>
+    </ClInclude>
+    <ClInclude Include="printDataSortedByAverageMark.service.h">
+      <Filter>Header Files\components\printDataSortedByAverageMark</Filter>
+    </ClInclude>
+    <ClInclude Include="printDataSortedByAverageMark.ui.h">
+      <Filter>Header Files\components\printDataSortedByAverageMark</Filter>
+    </ClInclude>
+    <ClInclude Include="exit.ui.h">
+      <Filter>Header Files\components\exit</Filter>
+    </ClInclude>
+    <ClInclude Include="file.service.h">
+      <Filter>Header Files\file</Filter>
+    </ClInclude>
+    <ClInclude Include="convertTheDatabaseToATextFile.ui.h">
+      <Filter>Header Files\components\convertTheDatabaseToATextFile</Filter>
+    </ClInclude>
+    <ClInclude Include="addInformationFromCreatedTextFile.ui.h">
+      <Filter>Header Files\components\addInformationFromCreatedTextFIle</Filter>
+    </ClInclude>
+    <ClInclude Include="outputDataToFile.ui.h">
+      <Filter>Header Files\components\outputDataToFile</Filter>
+    </ClInclude>
+    <ClInclude Include="convertTheContentsOfTheTextFileToABinary.ui.h">
+      <Filter>Header Files\components\convertTheContentsOfTheTextFileToABinary</Filter>
+    </ClInclude>
+    <ClInclude Include="enterInformationFromCreatedBinaryFile.ui.h">
+      <Filter>Header Files\components\enterInformationFromCreatedBinaryFile</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

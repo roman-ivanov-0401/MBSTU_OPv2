@@ -1,0 +1,49 @@
+3
+19438
+1  Echin
+1  Ilya
+1  Mikhailovich
+0  2
+0  2002
+1  1 Mathematical analysis
+0  4
+1  1 Engineering graphics
+0  4
+1  High level programming
+0  3
+1  Analytic geometry
+0  5
+1  Theoretical computer science
+0  4
+19866
+1  Alekperov
+1  Nizami
+1  Jasurovich
+0  3
+0  2003
+1  Mathematical analysis
+0  2
+1  Engineering graphics
+0  2
+1  High level programming
+0  3
+1  Analytic geometry
+0  2
+1  Theoretical computer science
+0  3
+18961
+1  Ivanov
+1  Roman
+1  Evgenyevich
+0  1
+0  2005
+1  Mathematical analysis
+0  5
+1  Engineering graphics
+0  4
+1  High level programming
+0  5
+1  Analytic geometry
+0  4
+1  Theoretical computer science
+0  5
